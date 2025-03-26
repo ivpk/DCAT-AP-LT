@@ -120,7 +120,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>DSA - tai duomenų struktūros aprašo specifikacija, taikoma aprašyti vieningai Lietuvoje valstybės informacinius išteklius sudarančius duomenis.</code>
         </td>
     </tr>
-    
+
     <tr>
         <td>
         <code>Informacinė sistema</code>
@@ -470,7 +470,7 @@ Taip pat, didelės vertės duomenų rinkinių metaduomenims aprašyti naudojamas
 <br>
 
 Pagrindinių modelių esybių, kurios sudaro taikymo profilio branduolį, savybės ir su jomis susiję apribojimai, taikomi šio profilio kontekste, pateikiami lentelės pavidalu. Kiekviena eilutė atitinka vieną ypatybę. Siekiant sutaupyti vietos, naudojami šie sutrumpinimai, kurie trumpai nurodo skirtumą nuo DCAT:
- 
+
 <ul>
 <li>A: pakartotinai naudojamas kaip apibrėžta ir išreikšta DCAT</li>
 <li>E: pakartotinai naudojamas su papildomomis naudojimo pastabomis arba papildomais apribojimais, palyginti su DCAT</li>
@@ -572,33 +572,32 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <th class="data-table__header-title--sortable" style="width:50%">Reikšmės aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
             <tr class="data-table__header">
                 <td>Ypatingos svarbos</td>
         <td>dcataplt:highlyImportant</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Ypatingos svarbos valstybės informaciniai ištekliai – jiems priskiriamos informacinės sistemos, kuriose esančių duomenų prieinamumo, vientisumo ir konfidencialumo pažeidimo poveikis sukelia padarinius visai valstybei (poveikis daugiau negu 5 apskrityse, daugiau negu 50 procentų gyventojų ar institucijų).</td>  
+                <td>Ypatingos svarbos valstybės informaciniai ištekliai – jiems priskiriamos informacinės sistemos, kuriose esančių duomenų prieinamumo, vientisumo ir konfidencialumo pažeidimo poveikis sukelia padarinius visai valstybei (poveikis daugiau negu 5 apskrityse, daugiau negu 50 procentų gyventojų ar institucijų).</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Svarbūs</td>
         <td>dcataplt:Important</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Svarbūs valstybės informaciniai ištekliai – jiems priskiriamos informacinės sistemos, kuriose esančių duomenų prieinamumo, vientisumo ir konfidencialumo pažeidimo poveikis sukelia padarinius didelei valstybės, institucijų ir gyventojų daliai (poveikis 2–5 apskrityse, 6–50 procentų gyventojų ar institucijų).</td>      
+                <td>Svarbūs valstybės informaciniai ištekliai – jiems priskiriamos informacinės sistemos, kuriose esančių duomenų prieinamumo, vientisumo ir konfidencialumo pažeidimo poveikis sukelia padarinius didelei valstybės, institucijų ir gyventojų daliai (poveikis 2–5 apskrityse, 6–50 procentų gyventojų ar institucijų).</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Vidutinės svarbos</td>
         <td>dcataplt:moderatelyImportant</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Vidutinės svarbos valstybės informaciniai ištekliai – jiems priskiriamos informacinės sistemos, kuriose esančių duomenų prieinamumo, vientisumo ir konfidencialumo pažeidimo poveikis sukelia padarinius nedidelei valstybės, institucijų ir gyventojų daliai (poveikis keliose vienos apskrities savivaldybėse, 1–5 procentų gyventojų ar institucijų).</td>      
+                <td>Vidutinės svarbos valstybės informaciniai ištekliai – jiems priskiriamos informacinės sistemos, kuriose esančių duomenų prieinamumo, vientisumo ir konfidencialumo pažeidimo poveikis sukelia padarinius nedidelei valstybės, institucijų ir gyventojų daliai (poveikis keliose vienos apskrities savivaldybėse, 1–5 procentų gyventojų ar institucijų).</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Mažos svarbos</td>
         <td>dcataplt:slightlyImportant</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Mažos svarbos valstybės informaciniai ištekliai – jiems priskiriamos informacinės sistemos, kuriose esančių duomenų prieinamumo, vientisumo ir konfidencialumo pažeidimo poveikis sukelia padarinius pavienėms institucijoms ar pavieniams fiziniams asmenims (poveikis ne daugiau kaip vienos apskrities savivaldybei, iki 1 procento gyventojų ar institucijų).</td>      
+                <td>Mažos svarbos valstybės informaciniai ištekliai – jiems priskiriamos informacinės sistemos, kuriose esančių duomenų prieinamumo, vientisumo ir konfidencialumo pažeidimo poveikis sukelia padarinius pavienėms institucijoms ar pavieniams fiziniams asmenims (poveikis ne daugiau kaip vienos apskrities savivaldybei, iki 1 procento gyventojų ar institucijų).</td>
                 <td>P</td>
             </tr>
         </table>
@@ -627,7 +626,6 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
                 <td>-</td>
             </tr>
-<br></br>
             <tr class="data-table__header">
                 <td>Registro informacinė sistema</td>
         <td>dcataplt:registerInformationSystemt</td>
@@ -639,14 +637,14 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <td>Valstybės informacinė sistema</td>
         <td>dcataplt:stateInformationSystem</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Valstybės informacinės sistemos, kuriose tvarkomi subjektų teisės aktuose nustatytoms funkcijoms atlikti reikalingi duomenys, įskaitant ir valstybės informacines sistemas, skirtas kelių ar daugelio subjektų jų veiklą reglamentuojančiuose teisės aktuose nustatytoms vienodo pobūdžio veiklos funkcijoms atlikti ir duomenims tvarkyti.</td>      
+                <td>Valstybės informacinės sistemos, kuriose tvarkomi subjektų teisės aktuose nustatytoms funkcijoms atlikti reikalingi duomenys, įskaitant ir valstybės informacines sistemas, skirtas kelių ar daugelio subjektų jų veiklą reglamentuojančiuose teisės aktuose nustatytoms vienodo pobūdžio veiklos funkcijoms atlikti ir duomenims tvarkyti.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Vidaus administravimo informacinė sistema</td>
         <td>dcataplt:internalInformationSystem</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Vidaus administravimo informacinės sistemos, kuriose tvarkomi subjektų valdomi duomenys, reikalingi vidaus administravimo funkcijoms ar kitoms pagalbinio pobūdžio funkcijoms, kurios padeda įgyvendinti subjektui teisės aktuose nustatytus uždavinius.</td>    
+                <td>Vidaus administravimo informacinės sistemos, kuriose tvarkomi subjektų valdomi duomenys, reikalingi vidaus administravimo funkcijoms ar kitoms pagalbinio pobūdžio funkcijoms, kurios padeda įgyvendinti subjektui teisės aktuose nustatytus uždavinius.</td>
                 <td>P</td>
             </tr>
         </table>
@@ -669,95 +667,94 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
         <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:10%">Reikšmė</th>
-        <th class="data-table__header-title--sortable" style="width:10%">URI</th>
+                <th class="data-table__header-title--sortable" style="width:10%">URI</th>
                 <th class="data-table__header-title--sortable" style="width:10%">Range</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Reikšmės aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
                 <td>-</td>
             </tr>
-<br></br>
             <tr class="data-table__header">
                 <td>Konstitucinis įstatymas</td>
-        <td>dcataplt:Constitutional</td>
+                <td>dcataplt:Constitutional</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
                 <td>Konstitucinis įstatymas</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Įstatymas</td>
-        <td>dcataplt:LegalAct</td>
+                <td>dcataplt:LegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Įstatymas.</td>      
+                <td>Įstatymas.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Seimo nutarimas</td>
-        <td>dcataplt:ParliamentDecision</td>
+                <td>dcataplt:ParliamentDecision</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Seimo nutarimas.</td>    
+                <td>Seimo nutarimas.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Kitas seimo priimtas teisės aktas</td>
-        <td>dcataplt:OtherParliamentLegalAct</td>
+                <td>dcataplt:OtherParliamentLegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Kitas seimo priimtas teisės aktas.</td>    
+                <td>Kitas seimo priimtas teisės aktas.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>LR tarptautinė sutartis</td>
-        <td>dcataplt:LRInternationalAgreement</td>
+                <td>dcataplt:LRInternationalAgreement</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Lietuvos Respublikos tarptautinė sutartis.</td>    
+                <td>Lietuvos Respublikos tarptautinė sutartis.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>LR Prezidento dekretas ar potvarkis</td>
-        <td>dcataplt:PresidentDecree</td>
+                <td>dcataplt:PresidentDecree</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Respublikos Prezidento dekretas ar potvarkis.</td>    
+                <td>Respublikos Prezidento dekretas ar potvarkis.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Vyriausybės nutarimas</td>
-        <td>dcataplt:GovernmentDecision</td>
+                <td>dcataplt:GovernmentDecision</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Vyriausybės nutarimas, sprendimas ar rezoliucija.</td>    
+                <td>Vyriausybės nutarimas, sprendimas ar rezoliucija.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Norminis teisės aktas</td>
-        <td>dcataplt:NormativeLegalAct</td>
+                <td>dcataplt:NormativeLegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Ministrų, Vyriausybės įstaigų, kitų valstybės institucijų ir įstaigų vadovų ir kolegialių institucijų norminis teisės aktas.</td>    
+                <td>Ministrų, Vyriausybės įstaigų, kitų valstybės institucijų ir įstaigų vadovų ir kolegialių institucijų norminis teisės aktas.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Seimo valdybos sprendimas</td>
-        <td>dcataplt:ParliamentaryBoardDecision</td>
+                <td>dcataplt:ParliamentaryBoardDecision</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Seimo valdybos sprendimas.</td>    
+                <td>Seimo valdybos sprendimas.</td>
                 <td>P</td>
             </tr>
-            <tr class="data-table__header"></tr>
+            <tr class="data-table__header">
                 <td>LB Norminis teisės aktas</td>
-        <td>dcataplt:LBNormativeLegalAct</td>
+                <td>dcataplt:LBNormativeLegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Lietuvos banko norminis teisės aktas.</td>    
+                <td>Lietuvos banko norminis teisės aktas.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Savivaldybių institucijų norminis teisės aktas</td>
         <td>dcataplt:MunicipalNormativeLegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Savivaldybių institucijų norminis teisės aktas.</td>    
+                <td>Savivaldybių institucijų norminis teisės aktas.</td>
                 <td>P</td>
             </tr>
-            <tr class="data-table__header"></tr>
+            <tr class="data-table__header">
                 <td>Kitas teisės aktas</td>
-        <td>dcataplt:OtherLegalAct</td>
+                <td>dcataplt:OtherLegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Kitas teisės aktas.</td>    
+                <td>Kitas teisės aktas.</td>
                 <td>P</td>
             </tr>
         </table>
@@ -817,7 +814,6 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
             <tr class="data-table__header">
                 <td>Aprašymas</td>
                 <td>[dct:description](http://purl.org/dc/terms/description)</td>
@@ -827,7 +823,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <td>Šioje savybėje pateikiamas katalogo laisvo teksto aprašas laisvos formos tekstu. Šią savybę galima pateikti keliomis kalbomis.</td>
                 <td><a href="https://www.w3.org/TR/vocab-dcat-3/#Property:resource_description">E</a></td>
             </tr>
-                <!-- Trūko identifier -->    
+                <!-- Trūko identifier -->
                       <tr class="data-table__header">
                 <td>Identifikatorius</td>
                 <td>[dct:identifier](http://purl.org/dc/terms/identifier)</td>
@@ -867,7 +863,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
  </table>
 
 ### Klasės Katalogas rekomenduojamos savybės ### {###RekomenduojamosKatalogasSavybes}
-       
+
 <style>
             .data-table.simple {
                 border-collapse: separate;
@@ -960,7 +956,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <td>-</td>
                 <td>Šioje savybėje nurodoma geografinė duomenų aprėptis.</td>
                 <td><a href="https://www.w3.org/TR/vocab-dcat-3/#Property:dataset_spatial">E</a></td>
-            </tr>   
+            </tr>
 
     <tr class="data-table__header">
                 <td>Temos taksonomija</td>
@@ -1038,7 +1034,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <td>Ši savybė nurodo katalogą, kurio turinys domina šio katalogo kontekste.</td>
                 <td><a href="https://www.w3.org/TR/vocab-dcat-3/#Property:catalog_catalog">E</a></td>
             </tr>
-           
+
             <tr class="data-table__header">
                 <td>Teisinis pagrindas</td>
                 <td>[dcatap:applicableLegislation](https://semiceu.github.io/uri.semic.eu-generated/r5r/release/3.0.0/#applicableLegislation)</td>
@@ -1107,7 +1103,6 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
             <tr class="data-table__header">
                 <td>Pavadinimas</td>
@@ -1138,7 +1133,6 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
             <tr class="data-table__header">
                 <td>Tipas</td>
@@ -1184,7 +1178,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <td> Ši klasė apibrėžia abstrakčią sąvoką ir neturi savybių. </td>
                 <td>[rdfs:Literal](http://www.w3.org/2000/01/rdf-schema#Literal)</td>
             </tr>
-           
+
         </table>
 
 ## Išteklius ## {##Isteklius}
@@ -1208,7 +1202,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <td>Ši klasė apibrėžia abstrakčią sąvoką ir neturi savybių</td>
                 <td>[rdfs:Resource](http://www.w3.org/2000/01/rdf-schema#Resource)</td>
             </tr>
-           
+
         </table>
 
 
@@ -1232,14 +1226,14 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
                 <td>Koncepcinė klasė, aprašanti kaupiamą / teikiamą informaciją. Sujungia katalogą su duomenų rinkiniu, kuris yra katalogo dalis.</td>
                 <td>Šios klasės egzemplioriais apibūdinami  duomenų rinkiniai, tvarkomi informacinės sistemos apimtyje.
 Kiekvienas duomenų rinkinys per katalogo įrašo sąryšį CatalogRecord, priskiriamas vienam informacinės sistemos (Catalog) atvejui.
-Tokiu būdu aprašomi konkretūs duomenų rinkiniai, valdomi ir tvarkomi konkrečios informacinės sistemos apimtyje. 
-Konkretaus duomenų rinkinio (Dataset) registravimo pagrindas informacinės sistemos (Information system) apimtyje yra informacinės sistemos nuostatų patvirtinimas (VII valdymo ir tvarkymo metodikoje apibrėžta tvarka). 
-Kiekvienas duomenų rinkinys įprasmina tam tikrą valstybės informacinės sistemos ar registro nuostatuose įvardintiną informacinės struktūros dalį. 
+Tokiu būdu aprašomi konkretūs duomenų rinkiniai, valdomi ir tvarkomi konkrečios informacinės sistemos apimtyje.
+Konkretaus duomenų rinkinio (Dataset) registravimo pagrindas informacinės sistemos (Information system) apimtyje yra informacinės sistemos nuostatų patvirtinimas (VII valdymo ir tvarkymo metodikoje apibrėžta tvarka).
+Kiekvienas duomenų rinkinys įprasmina tam tikrą valstybės informacinės sistemos ar registro nuostatuose įvardintiną informacinės struktūros dalį.
 Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veiklos apimtyje suvokiama prasminga ir reikšminga koncepcija, apibūdinama reikšmingomis savybėmis/ atributais.
 </td>
                 <td>[dcat:Dataset](http://www.w3.org/ns/dcat#Dataset)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Duomenų rinkinys privalomos savybės ### {###PrivalomosDuomenųRinkinysSavybes}
@@ -1251,7 +1245,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1261,7 +1255,6 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
             <tr>
         <td>Aprašymas</td>
         <td>[dct:description](http://purl.org/dc/terms/description)</td>
@@ -1309,7 +1302,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1319,7 +1312,6 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
     <tr>
         <td>Kontaktinė informacija</td>
@@ -1395,7 +1387,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1405,7 +1397,6 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
     <tr>
         <td>Kitas identifikatorius</td>
@@ -1777,7 +1768,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
                 <td>-</td>
                 <td>[dcat:DataService](http://www.w3.org/ns/dcat#DataService)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Duomenų paslauga privalomos savybės ### {###PrivalomosDuomenųPaslaugaSavybes}
@@ -1789,7 +1780,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1799,7 +1790,6 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 <tr>
         <td>Identifikatorius</td>
         <td>[dct:identifier](http://purl.org/dc/terms/identifier)</td>
@@ -1838,7 +1828,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1848,7 +1838,6 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
     <tr>
         <td>Kontaktinė informacija</td>
         <td>[dcat:contactPoint](http://www.w3.org/ns/dcat#contactPoint)</td>
@@ -1914,7 +1903,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1924,7 +1913,6 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 <tr>
         <td>Prieigos teisės</td>
         <td>[dct:accessRights](http://purl.org/dc/terms/accessRights)</td>
@@ -1944,6 +1932,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
         <td>Ši savybė nurodo įgyvendinimo taisyklę arba kitą specifikaciją.</td>
         <td><a href="https://www.w3.org/TR/vocab-dcat-3/#Property:record_conforms_to">E</a></td>
     </tr>
+    <tr>
         <td>Aprašas</td>
         <td>[dct:description](http://purl.org/dc/terms/description)</td>
         <td>[rfds:Literal](https://semiceu.github.io/DCAT-AP/releases/3.0.0/#Literal)</td>
@@ -2022,7 +2011,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
                 <td></td>
                 <td></td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-            </tr>      
+            </tr>
         </table>
 
 ### Klasės Kategorija, Teikėjo tipas, Statusas privalomos savybės ### {###PrivalomosKategorijaSavybes}
@@ -2043,7 +2032,6 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
             <tr>
         <td>Pageidaujama antraštė</td>
@@ -2075,13 +2063,13 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
             <tr class="data-table__header">
                 <td>Pateiktis</td>
                 <td>Fizinė duomenų rinkinio išraiškos forma tam tikru formatu arba duomenų rinkinio realizacija.</td>
-                <td>Ši klasė apibūdina konkretų ir aktyviai veikiantį duomenų rinkinio įgyvendinimą informacinėje sistemoje - valstybinės informacinės sistemos arba duomenų valdymo aplinkoje, tokioje kaip duomenų bazės lentelė, duomenų failai, saugomi duomenų saugykloje, struktūrizuoti ir pusiau struktūrizuoti failai uždarame intranete arba interneto erdvėje. 
+                <td>Ši klasė apibūdina konkretų ir aktyviai veikiantį duomenų rinkinio įgyvendinimą informacinėje sistemoje - valstybinės informacinės sistemos arba duomenų valdymo aplinkoje, tokioje kaip duomenų bazės lentelė, duomenų failai, saugomi duomenų saugykloje, struktūrizuoti ir pusiau struktūrizuoti failai uždarame intranete arba interneto erdvėje.
 
 IS kontekste, šios klasės prioritetinis ir didžiausios apimties taikymas yra informacinės sistemos aplinkoje tvarkomų duomenų rinkinių realizacijų aprašymui, ir toliau jų modelių detalizavimui klasėmis DataObjectTypeSpecification ir DataElement.
 </td>
                 <td>[dcat:Distribution](http://www.w3.org/ns/dcat#Distribution)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Pateiktis privalomos savybės ### {###PrivalomosPateiktisSavybes}
@@ -2102,7 +2090,6 @@ IS kontekste, šios klasės prioritetinis ir didžiausios apimties taikymas yra 
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
             <tr>
         <td>Prieigos URL</td>
@@ -2133,7 +2120,6 @@ IS kontekste, šios klasės prioritetinis ir didžiausios apimties taikymas yra 
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
     <tr>
         <td>Licencija</td>
@@ -2191,7 +2177,6 @@ IS kontekste, šios klasės prioritetinis ir didžiausios apimties taikymas yra 
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
     <!-- trūko 'access service' -->
     <tr>
         <td>Prieigos paslauga</td>
@@ -2231,7 +2216,7 @@ IS kontekste, šios klasės prioritetinis ir didžiausios apimties taikymas yra 
         <td>Ši savybė nurodo platinimo laikmenos tipą, kaip apibrėžta IANA valdomas žodynas</td>
         <td><a href="https://www.w3.org/TR/vocab-dcat-3/#Property:distribution_media_type">E</a></td>
     </tr>
-    
+
     <tr>
         <td>Kontrolinė suma</td>
         <td>[spdx:checksum](http://spdx.org/rdf/terms#checksum)</td>
@@ -2350,9 +2335,8 @@ ir pateikties valdymo teisės.</td>
         <td>[rdfs:Literal](http://www.w3.org/2000/01/rdf-schema#Literal)</td>
         <td>0..n</td>
         <td>-</td>
-        <td>Šioje savybėje yra aprašomasis pateikties pavadinimas. 
+        <td>Šioje savybėje yra aprašomasis pateikties pavadinimas.
         <td><a href="https://www.w3.org/TR/vocab-dcat-3/#Property:distribution_title">E</a></td>
-</td>
     </tr>
     <tr>
         <td>Laiko skiriamoji geba</td>
@@ -2362,7 +2346,7 @@ ir pateikties valdymo teisės.</td>
         <td>-</td>
         <td>Ši savybė nurodo minimalią laiko skiriamąją gebą.</td>
         <td><a href="https://www.w3.org/TR/vocab-dcat-3/#Property:distribution_temporal_resolution">E</a></td>
-    </tr>    
+    </tr>
     <tr>
         <td>Licencija</td>
         <td>[dct:license](http://purl.org/dc/terms/license)</td>
@@ -2395,7 +2379,7 @@ ir pateikties valdymo teisės.</td>
                 <td> - </td>
                 <td>[dct:LicenseDocument](http://purl.org/dc/terms/LicenseDocument)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Licencijos Dokumentas rekomenduojamos savybės ### {###RekomenduojamosLicencijosDokumentasSavybes}
@@ -2407,7 +2391,7 @@ ir pateikties valdymo teisės.</td>
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2417,7 +2401,6 @@ ir pateikties valdymo teisės.</td>
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
               <tr>
         <td>Tipas</td>
         <td>[dct:type](http://purl.org/dc/terms/type)</td>
@@ -2451,7 +2434,7 @@ ir pateikties valdymo teisės.</td>
                 <td> - </td>
                 <td>[skos:ConceptScheme](http://www.w3.org/2004/02/skos/core#ConceptScheme)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Kategorijų schema privalomos savybės ### {###PrivalomosKategorijųSchemaSavybes}
@@ -2463,7 +2446,7 @@ ir pateikties valdymo teisės.</td>
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2473,7 +2456,6 @@ ir pateikties valdymo teisės.</td>
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
             <tr>
         <td>Pavadinimas</td>
         <td>[dct:title](http://purl.org/dc/terms/title)</td>
@@ -2503,13 +2485,13 @@ ir pateikties valdymo teisės.</td>
             </tr>
             <tr class="data-table__header">
                 <td>Teisinis šaltinis</td>
-                <td>Teisiniai šaltiniai - tai teisės aktai, politika ar politikos kryptys, kurie yra taisyklės, kuriomis apibrėžiamas bazinių registrų ir kitų informacinių sistemų paslaugos. 
+                <td>Teisiniai šaltiniai - tai teisės aktai, politika ar politikos kryptys, kurie yra taisyklės, kuriomis apibrėžiamas bazinių registrų ir kitų informacinių sistemų paslaugos.
 Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal ELI ontologiją.
 </td>
                 <td>Lietuvoje duomenų rinkiniai aprašomi su nedideliais teisinio šaltinio citavimo pakeitimais, nes ELI Lietuvoje dar nepriimtas. Šiame priede LegalResource šaltinis yra ELI atributas pavadinimu [id_local](=http://data.europa.eu/eli/ontology#id_local). Vietinis identifikatorius naudojamas kaip [Teisės aktų registre](https://www.e-tar.lt/portal/) paskelbto teisinio šaltinio URI.</td>
                 <td>[eli:LegalResource](http://data.europa.eu/eli/ontology#LegalResource)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Teisinis šaltinis privalomos savybės ### {###PrivalomosTeisinisŠaltinisSavybes}
@@ -2521,7 +2503,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -2531,7 +2513,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
              <tr>
         <td>Tipas</td>
         <td>[dct:type](http://purl.org/dc/terms/type)</td>
@@ -2539,7 +2520,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
         <td>1..n</td>
         <td>Lietuvoje duomenų rinkiniai aprašomi su nedideliais teisinio šaltinio citavimo pakeitimais, nes ELI Lietuvoje dar nepriimtas. Šiame priede LegalResource šaltinis yra ELI atributas pavadinimu [id_local](=http://data.europa.eu/eli/ontology#id_local). Vietinis identifikatorius naudojamas kaip [Teisės aktų registre](https://www.e-tar.lt/portal/) paskelbto teisinio šaltinio URI.</td>
         <td>Ši savybė nurodo teisinio ištekliaus tipą (pvz., "Direktyva", „Règlement grand ducal“, „įstatymas“, „Règlement ministériel“, „projektas pasiūlymas“, „Parlamento aktas“ ir t. t.). Valstybės narės raginamos sudaryti savo teisės aktų sąrašą atitinkamoje sąvokų schemoje.</td>
-        <td><a href="https://www.w3.org/TR/vocab-dcat-3/#Property:resource_type">E</a></td>  
+        <td><a href="https://www.w3.org/TR/vocab-dcat-3/#Property:resource_type">E</a></td>
 </tr>
 </table>
 
@@ -2552,7 +2533,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -2562,7 +2543,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
     <tr>
         <td>Aprašas</td>
         <td>[dct:description](http://purl.org/dc/terms/description)</td>
@@ -2592,7 +2572,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -2602,7 +2582,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
     <tr>
         <td>Nuoroda</td>
@@ -2645,7 +2624,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <td> - </td>
                 <td>[cpsv:Rule](http://purl.org/vocab/cpsv#Rule)</td>
             </tr>
-           
+
         </table>
 <br>
       ### Klasės Taisyklė privalomos savybės ### {###PrivalomosTaisyklėSavybės}
@@ -2657,7 +2636,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -2667,7 +2646,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
              <tr>
         <td>Aprašymas</td>
         <td>[dct:description](http://purl.org/dc/terms/description)</td>
@@ -2706,7 +2684,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -2716,7 +2694,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
       <tr>
         <td>Įgyvendina</td>
@@ -2747,7 +2724,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -2757,7 +2734,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
     <tr>
         <td>Tipas</td>
@@ -2792,7 +2768,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <td> - </td>
                 <td>[cv:PublicOrganisation](http://data.europa.eu/m8g/PublicOrganisation)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Viešoji Institucija privalomos savybės ### {###PrivalomosViesojiInstitucijaSavybes}
@@ -2813,7 +2789,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
              <tr>
         <td>Identifikatorius</td>
         <td>[dct:identifier](http://purl.org/dc/terms/identifier)</td>
@@ -2923,7 +2898,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <td> - </td>
                 <td>[cpsv:PublicService](http://purl.org/vocab/cpsv#PublicService)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Informacinės Sistemos Paslauga privalomos savybės ### {###PrivalomosISPaslaugaSavybes}
@@ -2944,7 +2919,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:60%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
    <tr>
         <td>Aprašymas</td>
         <td>[dct:description](http://purl.org/dc/terms/description)</td>
@@ -2984,7 +2958,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
      </table>
 
 ### Klasės Informacinės Sistemos Paslauga rekomenduojamos savybės ### {###RekomenduojamosISPaslaugaSavybes}
-       
+
 <style>
             .data-table.simple {
                 border-collapse: separate;
@@ -3002,7 +2976,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:60%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
     <tr>
         <td>Turi dalį</td>
@@ -3096,7 +3069,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:60%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
    <tr>
         <td>Laikosi</td>
         <td>[cpsv:follows](http://purl.org/vocab/cpsv#follows)</td>
@@ -3147,7 +3119,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <td> - </td>
                 <td>[dcat:CatalogRecord](http://www.w3.org/ns/dcat#CatalogRecord)</td>
             </tr>
-           
+
         </table>
 <br>
 ### Klasės Katalogo įrašas privalomos savybės ### {###PrivalomosKatalogoĮrašasSavybes}
@@ -3168,7 +3140,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
              <tr>
         <td>Pagrindinė tema</td>
         <td>[foaf:primaryTopic](http://xmlns.com/foaf/0.1/primaryTopic)</td>
@@ -3207,7 +3178,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
     <tr>
         <td>Taikymo profilis</td>
@@ -3257,7 +3227,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
     <tr>
         <td>Aprašymas</td>
@@ -3318,7 +3287,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <td> - </td>
                 <td>[cv:PublicOrganisation](http://data.europa.eu/m8g/PublicOrganisation)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Santykis privalomos savybės ### {###PrivalomosSantykisSavybes}
@@ -3339,7 +3308,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
              <tr>
         <td>Turėjo rolę</td>
         <td>[dcat:hadRole](http://www.w3.org/ns/dcat#hadRole)</td>
@@ -3382,7 +3350,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <td> - </td>
                 <td>[spdx:Checksum](http://spdx.org/rdf/terms#Checksum)</td>
             </tr>
-           
+
         </table>
 <br>
 
@@ -3404,7 +3372,6 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <th class="data-table__header-title--sortable" style="width:35%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
             <tr>
         <td>Algoritmas</td>
         <td>[spdx:algorithm](http://spdx.org/rdf/terms#algorithm)</td>
@@ -3446,7 +3413,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
                 <td></td>
                 <td>[foaf:Document](http://xmlns.com/foaf/0.1/Document)</td>
             </tr>
-           
+
         </table>
 
 
@@ -3471,7 +3438,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
         <td> - </td>
         <td><a href="http://purl.org/dc/terms/Frequency">dct:Frequency</a></td>
     </tr>
-           
+
         </table>
 
 
@@ -3501,7 +3468,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
         <td> - </td>
         <td><a href="http://www.w3.org/ns/adms#Identifier">adms:Identifier</a></td>
     </tr>
-           
+
         </table>
 <br>
 
@@ -3514,7 +3481,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -3524,7 +3491,6 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
             <tr>
         <td>Žymėjimas</td>
         <td>[skos:notation](http://www.w3.org/2004/02/skos/core#notation)<br>[rdfs:Literal](http://www.w3.org/2000/01/rdf-schema#Literal)</td>
@@ -3557,7 +3523,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
         <td>Klasė Rūšis yra tėvinė klasė keturių vCard kortelių tipų (Individualus asmuo, Organizacija, Vieta, Grupė).</td>
         <td><a href="http://www.w3.org/2006/vcard/ns#Kind">vcard:Kind</a></td>
     </tr>
-           
+
         </table>
 
 
@@ -3582,7 +3548,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
         <td> - </td>
         <td><a href="http://purl.org/dc/terms/LinguisticSystem">dct:LinguisticSystem</a></td>
     </tr>
-           
+
         </table>
 
 ## Vietovė ## {##Vietove}
@@ -3606,11 +3572,11 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td>Naudojimo pastaba: gali būti vaizduojama naudojant kontroliuojamąjį žodyną arba geografines koordinates. Pastaruoju atveju rekomenduojama naudoti pagrindinį vietovės žodyną, laikantis GeoDCAT-AP specifikacijoje aprašyto metodo.</td>
                 <td>[dct:Location](http://purl.org/dc/terms/Location)</td>
             </tr>
-           
+
         </table>
 
  <table class="data-table simple">
-         
+
 ### Klasės Vietovė rekomenduojamos savybės ### {###RekomenduojamosVietovėSavybės}
 
         <style>
@@ -3620,7 +3586,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -3630,7 +3596,6 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
           <tr>
         <td>Geografinis ribinis stačiakampis</td>
         <td>[dcat:bbox](http://www.w3.org/ns/dcat#bbox)</td>
@@ -3661,7 +3626,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -3671,7 +3636,6 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
     <tr>
         <td>Geometrija</td>
@@ -3706,7 +3670,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td></td>
                 <td>[dct:MediaType](http://purl.org/dc/terms/MediaType)</td>
             </tr>
-           
+
         </table>
 
 
@@ -3732,7 +3696,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td> - </td>
                 <td>[dct:PeriodOfTime](http://purl.org/dc/terms/PeriodOfTime)</td>
             </tr>
-           
+
         </table>
 
 ### Klasės Laikotarpis rekomenduojamos savybės ### {###RekomenduojamosLaikotarpisSavybes}
@@ -3744,7 +3708,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -3754,7 +3718,6 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
              <tr>
         <td>Pabaigos data</td>
         <td>[dcat:endDate](https://www.w3.org/ns/dcat#endDate)</td>
@@ -3784,7 +3747,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
             }
         </style>
  <table class="data-table simple">
-         
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -3794,7 +3757,6 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <th class="data-table__header-title--sortable" style="width:45%">Aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
             </tr>
-<br></br>
 
      <tr>
         <td>Turi pradžią</td>
@@ -3837,7 +3799,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td> - </td>
                  <td>[dct:RightsStatement](http://purl.org/dc/terms/RightsStatement)</td>
             </tr>
-           
+
         </table>
 
 
@@ -3863,7 +3825,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td> - </td>
                 <td>[dct:ProvenanceStatement](http://purl.org/dc/terms/ProvenanceStatement)</td>
             </tr>
-           
+
         </table>
 
 
@@ -3888,7 +3850,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td></td>
                 <td>[dct:Standard](http://purl.org/dc/terms/Standard)</td>
             </tr>
-           
+
         </table>
 
 
@@ -3913,7 +3875,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td> - </td>
                 <td>[schema:ContactPoint](http://schema.org/ContactPoint)</td>
             </tr>
-           
+
         </table>
 
 
@@ -3939,7 +3901,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td> - </td>
                 <td>[dqv:QualityAnnotation](http://www.w3.org/ns/dqv#QualityAnnotation)</td>
             </tr>
-           
+
         </table>
 
 
@@ -3966,7 +3928,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td> - </td>
                 <td>[dqv:QualityMeasurement](http://www.w3.org/ns/dqv#QualityMeasurement)</td>
             </tr>
-           
+
         </table>
 
 
@@ -3991,7 +3953,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td> - </td>
                 <td>[prov:Activity](http://www.w3.org/ns/prov#Activity)</td>
             </tr>
-           
+
         </table>
 
 
@@ -4017,7 +3979,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
                 <td></td>
                 <td>[locn:Address](http://www.w3.org/ns/locn#Address)</td>
             </tr>
-           
+
         </table>
 
 # Naudojami BregDCAT-AP Kontroliuojami žodynai # {#BREGZodynai}
@@ -4034,7 +3996,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
     <th class="data-table__header-title--sortable" style="width:50%">Nauojama klasėje / klasėse</th>
         <th class="data-table__header-title--sortable" style="width:12%">Žodyno pavadinimas</th>
     <th class="data-table__header-title--sortable" style="width:12%">Žodyno URI</th>
-        <th class="data-table__header-title--sortable" style="width:12%">Naudojimo pastaba</th>    
+        <th class="data-table__header-title--sortable" style="width:12%">Naudojimo pastaba</th>
     <th></th>
   </tr>
 <tr>
@@ -4072,7 +4034,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 <td><a href="http://publications.europa.eu/resource/authority/language">http://publications.europa.eu/resource/authority/language</a></td>
 <td>Duomenų rinkinių, duomenų paslaugų, katalogų, taisyklių ir pateikties aprašymai privalo apimti kalbas naudojant ES Leidinių biuro NAL.</td>
 </tr>
- 
+
   <tr>
 <td>dct:license</td>
 <td>Duomenų paslauga; Pateikimas; Registro katalogas</td>
@@ -4194,7 +4156,7 @@ Norime išreikšti padėką visiems dirbusiems, kuriant DCAT-AP-LT specifikacij�
 # Nuorodos # {#Nuorodos}
 
 
- 
+
 <dl class="bibliography">
 <dt id="bib-breg">[BregDCAT-AP]</dt><dd>
       <a href="https://joinup.ec.europa.eu/rdf_entity/http_e_f_fdata_ceuropa_ceu_fw21_f31929cda-c61a-4631-9ef3-d35c1c3495b3?page=3"><cite>BregDCAT-AP</cite></a> It is an annex to DCAT-AP. It describes additional usage of the DCAT-AP for Base Registries. URL: <a href="https://github.com/SEMICeu/BregDCAT-AP/tree/main/releases/2.1.0">https://github.com/SEMICeu/BregDCAT-AP/tree/main/releases/2.1.0</a>
