@@ -25,7 +25,7 @@ The Definition of High Value Datasets arose from the need to identify the most i
  <li>data of companies and their owners</li>
  <li>mobility data</li>
 </ul>
-This data has the greatest potential to influence the most important areas identified by the European Commission. The opening and reuse of such data creates significant added value, but at the same time requires additional rules governing their availability, interoperability and use. Considering the fact that the DCAT-AP extension cannot fully satisfy the quality, reliability and openness requirements of high-value data sets, the development of the DCAT-AP HVD extension was started, based on the guidelines provided in the High-value Data Set Implementation Regulation. 
+This data has the greatest potential to influence the most important areas identified by the European Commission. The opening and reuse of such data creates significant added value, but at the same time requires additional rules governing their availability, interoperability and use. Considering the fact that the DCAT-AP extension cannot fully satisfy the quality, reliability and openness requirements of high-value data sets, the development of the DCAT-AP HVD extension was started, based on the guidelines provided in the High-value Data Set Implementation Regulation.
 <br>
 <br>Accordingly, this extension is also adapted to DCAT-AP-LT, changing the LegalResource resource to an attribute under ELI:LegalResource with the name id_local. In Lithuania, High Value Datasets are described 'as-is' in the DCAT-AP HVD 2.2.0 specification, with minor adaptations regarding the citation of the legal source, as the ELI has not yet been adopted in Lithuania.
 In this annex, the LegalResource resource is an attribute under ELI with the name [id_local](=http://data.europa.eu/eli/ontology#id_local). The local identifier is used as the URI of the legal resource published in the [Register of Legal Acts](https://www.e-tar.lt/portal/).
@@ -59,11 +59,11 @@ Considering these features and, accordingly, the resulting requirements, in the 
     <dt>Subclass of</dt>
     <dd><a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#CataloguedResource">Katalogo resursas</a></dd>
     <dt>Savybės</dt>
-    <dd>For this entity the following properties are defined:  <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.applicablelegislation">applicable legislation,</a> 
+    <dd>For this entity the following properties are defined:  <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.applicablelegislation">applicable legislation,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.contactpoint">contact point,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.documentation">documentation,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.endpointdescription">ndpoint description,</a>
-    <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.endpointURL">endpoint URL,</a>    
+    <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.endpointURL">endpoint URL,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.HVDcategory">HVD category,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.licence">licence,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.rights">rights,</a>
@@ -81,7 +81,6 @@ Considering these features and, accordingly, the resulting requirements, in the 
       <th>Reusage</th>
     </tr>
   </thead>
-<br></br>
   <tbody>
     <tr>
       <td>[applicable legislation](http://data.europa.eu/r5r/applicableLegislation)</td>
@@ -172,7 +171,7 @@ Article 3.3 requires to provide API documentation in a Union or internationally 
     <dt>Subclass of</dt>
     <dd><a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#CataloguedResource">Catalogue Resource</a></dd>
     <dt>Properties</dt>
-<dd>For this entity the following properties are defined: <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.applicablelegislation">applicable legislation,</a> 
+<dd>For this entity the following properties are defined: <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.applicablelegislation">applicable legislation,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#Dataset.conformsto">comforms to,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#DataService.contactpoint">contact point,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#Dataset.datasetdistribution">dataset distribution,</a>
@@ -190,7 +189,6 @@ Article 3.3 requires to provide API documentation in a Union or internationally 
       <th>Reusage</th>
     </tr>
   </thead>
-<br></br>
   <tbody>
     <tr>
       <td>[applicable legislation](http://data.europa.eu/r5r/applicableLegislation)</td>
@@ -248,7 +246,7 @@ In this appendix, the LegalResource resource is the ELI attribute named [id_loca
     <dt>Usage note</dt>
     <dd>Bulk downloads should be encoded as a Distribution.</dd>
     <dt>Properties</dt>
-    <dd>For this entity the following properties are defined: <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#Distribution.accessservice">access service,</a> 
+    <dd>For this entity the following properties are defined: <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#Distribution.accessservice">access service,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#Distribution.accessURL">access URL,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#Distribution.applicablelegislation">applicable legislation,</a>
     <a href="https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/#Distribution.licence">licence,</a>
@@ -267,7 +265,6 @@ In this appendix, the LegalResource resource is the ELI attribute named [id_loca
       <th>Reusage</th>
     </tr>
   </thead>
-<br></br>
   <tbody>
     <tr>
       <td>[prieigos paslauga](http://www.w3.org/ns/dcat#accessService)</td>
