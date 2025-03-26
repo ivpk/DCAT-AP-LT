@@ -2,7 +2,8 @@ name: Build and deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches:
+      - '**'
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
@@ -60,6 +61,7 @@ jobs:
           path: ./docs
 
   deploy:
+    if: github.ref == 'refs/heads/main'  # Only run deploy on main branch
     needs: build
     runs-on: ubuntu-latest
     environment:
