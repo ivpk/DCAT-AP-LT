@@ -235,7 +235,6 @@ Also, DCAT-AP-HVD classes and additional properties are used to describe the met
                 <th class="data-table__header-title--sortable" style="width:30%">Description</th>
         <th class="data-table__header-title--sortable" style="width:6%">Reuse</th>
             </tr>
-<br></br>
             <tr class="data-table__header">
                 <td>dcataplt:importance</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
@@ -281,34 +280,33 @@ Also, DCAT-AP-HVD classes and additional properties are used to describe the met
                 <th class="data-table__header-title--sortable" style="width:50%">Description</th>
          <th class="data-table__header-title--sortable" style="width:5%">Reuse</th>
             </tr>
-<br></br>
             <tr class="data-table__header">
                 <td>Highly important</td>
         <td>dcataplt:highlyImportant</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>They include data important for the entire state and/or state registers or state information systems in which these data are processed - value 1 is indicated.</td> 
+                <td>They include data important for the entire state and/or state registers or state information systems in which these data are processed - value 1 is indicated.</td>
         <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Important</td>
         <td>dcataplt:important</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>They include data important to several institutions and/or state registers or state information systems in which these data are processed - value 2 is indicated.</td>      
-        <td>P</td>           
+                <td>They include data important to several institutions and/or state registers or state information systems in which these data are processed - value 2 is indicated.</td>
+        <td>P</td>
 </tr>
             <tr class="data-table__header">
                 <td>Moderately important</td>
         <td>dcataplt:moderatelyImportant</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>They include data important for one institution and/or departmental registers or state information systems in which these data are processed - value 3 is indicated.</td>      
-        <td>P</td>           
+                <td>They include data important for one institution and/or departmental registers or state information systems in which these data are processed - value 3 is indicated.</td>
+        <td>P</td>
 </tr>
             <tr class="data-table__header">
                 <td>Slightly important</td>
         <td>dcataplt:slightlyImportant</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>They include data managed by the institution in the performance of internal administration functions and/or information systems in which these data are processed. The procedure for the establishment, development, modernization and liquidation of the information systems mentioned in this point shall be determined by the institutions authorized by the Government of the Republic of Lithuania - meaning 4.</td>      
-        <td>P</td>            
+                <td>They include data managed by the institution in the performance of internal administration functions and/or information systems in which these data are processed. The procedure for the establishment, development, modernization and liquidation of the information systems mentioned in this point shall be determined by the institutions authorized by the Government of the Republic of Lithuania - meaning 4.</td>
+        <td>P</td>
 </tr>
         </table>
     </dd>
@@ -329,27 +327,26 @@ Also, DCAT-AP-HVD classes and additional properties are used to describe the met
                 <th class="data-table__header-title--sortable" style="width:50%">Description</th>
         <th class="data-table__header-title--sortable" style="width:5%">Reuse</th>
             </tr>
-<br></br>
             <tr class="data-table__header">
                 <td>Register information system</td>
         <td>dcataplt:registerInformationSystem</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Information systems of registers in which objects are registered, objects and their registration data are processed.</td>      
-        <td>P</td>           
+                <td>Information systems of registers in which objects are registered, objects and their registration data are processed.</td>
+        <td>P</td>
 </tr>
             <tr class="data-table__header">
                 <td>State information system</td>
         <td>dcataplt:stateInformationSystem</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>State information systems in which the data necessary for the performance of the functions established by legal acts of entities are processed, including state information systems intended for the performance and data processing of several or many entities of the same kind of operational functions defined in the legal acts regulating their activities (hereinafter referred to as the general information system.</td>      
-        <td>P</td>            
+                <td>State information systems in which the data necessary for the performance of the functions established by legal acts of entities are processed, including state information systems intended for the performance and data processing of several or many entities of the same kind of operational functions defined in the legal acts regulating their activities (hereinafter referred to as the general information system.</td>
+        <td>P</td>
 </tr>
             <tr class="data-table__header">
                 <td>Internal information system</td>
         <td>dcataplt:internalInformationSystem</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Internal administration information systems, which process data managed by entities, required for internal administration functions or other functions of an auxiliary nature, which help the entity to implement the tasks established by legal acts.</td>      
-        <td>P</td>           
+                <td>Internal administration information systems, which process data managed by entities, required for internal administration functions or other functions of an auxiliary nature, which help the entity to implement the tasks established by legal acts.</td>
+        <td>P</td>
 </tr>
         </table>
     </dd>
@@ -371,95 +368,94 @@ Also, DCAT-AP-HVD classes and additional properties are used to describe the met
         <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:10%">Reikšmė</th>
-        <th class="data-table__header-title--sortable" style="width:10%">URI</th>
+                <th class="data-table__header-title--sortable" style="width:10%">URI</th>
                 <th class="data-table__header-title--sortable" style="width:10%">Range</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Reikšmės aprašymas</th>
                 <th class="data-table__header-title--sortable" style="width:5%">Perpanaudojimas</th>
                 <td>-</td>
             </tr>
-<br></br>
             <tr class="data-table__header">
                 <td>Constitutional law</td>
-        <td>dcataplt:constitutional</td>
+                <td>dcataplt:constitutional</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
                 <td>Constitutional law</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Legal act</td>
-        <td>dcataplt:legalAct</td>
+                <td>dcataplt:legalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Legal act.</td>      
+                <td>Legal act.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Parliament decision</td>
-        <td>dcataplt:parliamentDecision</td>
+                <td>dcataplt:parliamentDecision</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Parliament decision.</td>    
+                <td>Parliament decision.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Other parliament legal act</td>
-        <td>dcataplt:otherParliamentLegalAct</td>
+                <td>dcataplt:otherParliamentLegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Other parliament legal act.</td>    
+                <td>Other parliament legal act.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>International agreement</td>
-        <td>dcataplt:lrInternationalAgreement</td>
+                <td>dcataplt:lrInternationalAgreement</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Republic of Lithuania international agreement.</td>    
+                <td>Republic of Lithuania international agreement.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>President decree</td>
-        <td>dcataplt:presidentDecree</td>
+                <td>dcataplt:presidentDecree</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Decree of the President of the Republic of Lithuania.</td>    
+                <td>Decree of the President of the Republic of Lithuania.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Government decision</td>
-        <td>dcataplt:governmentDecision</td>
+                <td>dcataplt:governmentDecision</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Government resolution, decision or resolution.</td>    
+                <td>Government resolution, decision or resolution.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Normative legal act</td>
-        <td>dcataplt:normativeLegalAct</td>
+                <td>dcataplt:normativeLegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Normative legal act of ministers, government bodies, heads of other state institutions and bodies and collegial institutions.</td>    
+                <td>Normative legal act of ministers, government bodies, heads of other state institutions and bodies and collegial institutions.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Parliamentary board decision</td>
-        <td>dcataplt:parliamentaryBoardDecision</td>
+                <td>dcataplt:parliamentaryBoardDecision</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Parliamentary board decision.</td>    
+                <td>Parliamentary board decision.</td>
                 <td>P</td>
             </tr>
-            <tr class="data-table__header"></tr>
+            <tr class="data-table__header">
                 <td>Bank of Lithuania normative legal act</td>
-        <td>dcataplt:lbNormativeLegalAct</td>
+                <td>dcataplt:lbNormativeLegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Bank of Lithuania normative legal act.</td>    
+                <td>Bank of Lithuania normative legal act.</td>
                 <td>P</td>
             </tr>
             <tr class="data-table__header">
                 <td>Municipal normative legal act</td>
-        <td>dcataplt:municipalNormativeLegalAct</td>
+                <td>dcataplt:municipalNormativeLegalAct</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Municipal normative legal act.</td>    
+                <td>Municipal normative legal act.</td>
                 <td>P</td>
             </tr>
-            <tr class="data-table__header"></tr>
+            <tr class="data-table__header">
                 <td>Other legal resource</td>
-        <td>dcataplt:otherLegalResource</td>
+                <td>dcataplt:otherLegalResource</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
-                <td>Other Legal Resource.</td>    
+                <td>Other Legal Resource.</td>
                 <td>P</td>
             </tr>
         </table>
@@ -532,13 +528,13 @@ Note:  In Lithuania,  Datasets are described with minor adaptations regarding th
                 <td>A conceptual class that describes the information being collected/provided. Associates a directory with a dataset that is part of the directory.</td>
                 <td>Instances of this class describe data sets managed within the scope of the information system.
 Each data set is assigned to one instance of the information system (Catalog) through the catalog record link CatalogRecord.
-In this way, specific data sets are described, controlled and managed within the scope of a specific information system. 
-The basis for registering a specific data set (Dataset) in the scope of the information system (Catalog) is the approval of the provisions of the information system (the procedure defined in the methodology of the IS life cycle). 
-Each data set gives meaning to a certain part of the information structure to be named in the regulations of the state information system or register. 
+In this way, specific data sets are described, controlled and managed within the scope of a specific information system.
+The basis for registering a specific data set (Dataset) in the scope of the information system (Catalog) is the approval of the provisions of the information system (the procedure defined in the methodology of the IS life cycle).
+Each data set gives meaning to a certain part of the information structure to be named in the regulations of the state information system or register.
 The data set is distinguished and formulated as a meaningful and significant concept in the scope of the information system activity, described by significant properties/attributes.</td>
                 <td>[dcat:Dataset](http://www.w3.org/ns/dcat#Dataset)</td>
             </tr>
-           
+
         </table>
 
 
@@ -557,7 +553,7 @@ The data set is distinguished and formulated as a meaningful and significant con
                 <td>-</td>
                 <td>[dcat:DataService](http://www.w3.org/ns/dcat#DataService)</td>
             </tr>
-           
+
         </table>
 
 
@@ -576,7 +572,7 @@ The data set is distinguished and formulated as a meaningful and significant con
                 <td> - </td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
             </tr>
-           
+
         </table>
 
 
@@ -593,14 +589,14 @@ The data set is distinguished and formulated as a meaningful and significant con
                 <td>Dstribution</td>
                 <td>The physical form of expression of a data set in a particular format, or the realization of a data set.
 </td>
-                <td>This Class describes a concrete and active implementation of a data set in an information system - a state information system or a data management environment, such as a database table, data files stored in a data warehouse, structured and semi-structured files in a closed intranet or Internet space. 
+                <td>This Class describes a concrete and active implementation of a data set in an information system - a state information system or a data management environment, such as a database table, data files stored in a data warehouse, structured and semi-structured files in a closed intranet or Internet space.
 In the context of IS, the priority and largest application of this Class is for the description of realizations of data sets managed in the information system environment, and further for detailing their models in Classmis DataObjectTypeSpecification and DataElement.
 
 
 </td>
                 <td>[dcat:Distribution](http://www.w3.org/ns/dcat#Distribution)</td>
             </tr>
-           
+
         </table>
 
 
@@ -621,7 +617,7 @@ In the context of IS, the priority and largest application of this Class is for 
                 <td> - </td>
                 <td>[dct:LicenseDocument](http://purl.org/dc/terms/LicenseDocument)</td>
             </tr>
-           
+
         </table>
 
 
@@ -640,10 +636,10 @@ In the context of IS, the priority and largest application of this Class is for 
                 <td></td>
                 <td>[skos:ConceptScheme](http://www.w3.org/2004/02/skos/core#ConceptScheme)</td>
             </tr>
-           
+
         </table>
 
- 
+
 
 ## Legal Resource ## {##LegalResource}
 
@@ -656,13 +652,13 @@ In the context of IS, the priority and largest application of this Class is for 
             </tr>
             <tr class="data-table__header">
                 <td>Legal Resource</td>
-                <td>Legal sources are legal acts, policies or policies, which are rules that define the services of base registries and other information systems. 
+                <td>Legal sources are legal acts, policies or policies, which are rules that define the services of base registries and other information systems.
 Note:  In Lithuania,  Datasets are described with minor adaptations regarding the citation of the legal source, as the ELI has not yet been adopted in Lithuania. LegalResource resource is an attribute under ELI with the name [id_local](=http://data.europa.eu/eli/ontology#id_local). The local identifier is used as the URI of the legal resource published in the [Register of Legal Acts](https://www.e-tar.lt/portal/).
 </td>
                 <td> - </td>
                 <td>[eli:LegalResource](http://data.europa.eu/eli/ontology#LegalResource)</td>
             </tr>
-           
+
         </table>
 
 
@@ -681,10 +677,10 @@ Note:  In Lithuania,  Datasets are described with minor adaptations regarding th
                 <td> - </td>
                 <td>[cpsv:Rule](http://purl.org/vocab/cpsv#Rule)</td>
             </tr>
-           
+
         </table>
 <br>
-   
+
 
 
 ## Public Organisation ## {##PublicOrganisation}
@@ -703,9 +699,9 @@ Note:  In Lithuania,  Datasets are described with minor adaptations regarding th
                 <td> - </td>
                 <td>[cv:PublicOrganisation](http://data.europa.eu/m8g/PublicOrganisation)</td>
             </tr>
-           
+
         </table>
-        
+
 
 
 ## Public Registry Service ## {##PRService}
@@ -724,7 +720,7 @@ Note:  In Lithuania,  Datasets are described with minor adaptations regarding th
                 <td> - </td>
                 <td>[cpsv:PublicService](http://purl.org/vocab/cpsv#PublicService)</td>
             </tr>
-           
+
         </table>
 
 
@@ -743,7 +739,7 @@ Note:  In Lithuania,  Datasets are described with minor adaptations regarding th
                 <td> - </td>
                 <td>[dcat:CatalogRecord](http://www.w3.org/ns/dcat#CatalogRecord)</td>
             </tr>
-           
+
         </table>
 <br>
 
@@ -764,7 +760,7 @@ Note:  In Lithuania,  Datasets are described with minor adaptations regarding th
                 <td> - </td>
                 <td>[spdx:Checksum](http://spdx.org/rdf/terms#Checksum)</td>
             </tr>
-           
+
         </table>
 <br>
 
@@ -783,7 +779,7 @@ Note:  In Lithuania,  Datasets are described with minor adaptations regarding th
                 <td></td>
                 <td>[foaf:Document](http://xmlns.com/foaf/0.1/Document)</td>
             </tr>
-           
+
         </table>
 
 
@@ -803,7 +799,7 @@ Note:  In Lithuania,  Datasets are described with minor adaptations regarding th
         <td> - </td>
         <td><a href="http://purl.org/dc/terms/Frequency">dct:Frequency</a></td>
     </tr>
-           
+
         </table>
 
 
@@ -827,7 +823,7 @@ optional identifier of the agency managing the identifier scheme.
         <td> - </td>
         <td><a href="http://www.w3.org/ns/adms#Identifier">adms:Identifier</a></td>
     </tr>
-           
+
         </table>
 <br>
 
@@ -845,7 +841,7 @@ optional identifier of the agency managing the identifier scheme.
         <td>The Type class is the parent class for the four vCard types (Individual, Organization, Place, Group).</td>
         <td><a href="http://www.w3.org/2006/vcard/ns#Kind">vcard:Kind</a></td>
     </tr>
-           
+
         </table>
 
 
@@ -864,10 +860,10 @@ optional identifier of the agency managing the identifier scheme.
         <td> - </td>
         <td><a href="http://purl.org/dc/terms/LinguisticSystem">dct:LinguisticSystem</a></td>
     </tr>
-           
+
         </table>
 
- 
+
 
 
 ## Location ## {##Location}
@@ -885,7 +881,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td>Usage Note: Can be represented using a controlled dictionary or geographic coordinates. In the latter case, it is recommended to use a basic terrain dictionary, following the method described in the GeoDCAT-AP specification.</td>
                 <td>[dct:Location](http://purl.org/dc/terms/Location)</td>
             </tr>
-           
+
         </table>
 
 
@@ -905,7 +901,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td></td>
                 <td>[dct:MediaType](http://purl.org/dc/terms/MediaType)</td>
             </tr>
-           
+
         </table>
 
 
@@ -925,7 +921,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td> - </td>
                 <td>[dct:PeriodOfTime](http://purl.org/dc/terms/PeriodOfTime)</td>
             </tr>
-           
+
         </table>
 ## Resource ## {##Resource}
 
@@ -948,7 +944,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td>This is an abstrct class. This class does not impose any requirements for the properties</td>
                 <td>[rdfs:Resource](http://www.w3.org/2000/01/rdf-schema#Resource)</td>
             </tr>
-           
+
         </table>
 
 ## Rights Statements ## {##RightsStatement}
@@ -967,7 +963,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td> - </td>
                  <td>[dct:RightsStatement](http://purl.org/dc/terms/RightsStatement)</td>
             </tr>
-           
+
         </table>
 
 
@@ -988,7 +984,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td> - </td>
                 <td>[dct:ProvenanceStatement](http://purl.org/dc/terms/ProvenanceStatement)</td>
             </tr>
-           
+
         </table>
 
 
@@ -1008,7 +1004,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td></td>
                 <td>[dct:Standard](http://purl.org/dc/terms/Standard)</td>
             </tr>
-           
+
         </table>
 
 
@@ -1027,7 +1023,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td> - </td>
                 <td>[schema:ContactPoint](http://schema.org/ContactPoint)</td>
             </tr>
-           
+
         </table>
 
 
@@ -1048,7 +1044,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td> - </td>
                 <td>[dqv:QualityAnnotation](http://www.w3.org/ns/dqv#QualityAnnotation)</td>
             </tr>
-           
+
         </table>
 
 
@@ -1070,7 +1066,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td> - </td>
                 <td>[dqv:QualityMeasurement](http://www.w3.org/ns/dqv#QualityMeasurement)</td>
             </tr>
-           
+
         </table>
 
 
@@ -1090,7 +1086,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td> - </td>
                 <td>[prov:Activity](http://www.w3.org/ns/prov#Activity)</td>
             </tr>
-           
+
         </table>
 
 
@@ -1110,7 +1106,7 @@ optional identifier of the agency managing the identifier scheme.
                 <td></td>
                 <td>[locn:Address](http://www.w3.org/ns/locn#Address)</td>
             </tr>
-           
+
         </table>
 
 # BReg-DCAT-AP used controlled vocabularies ## {##ControlledVocabluaries}
@@ -1315,4 +1311,3 @@ We would like to express our gratitude to everyone who worked on the development
 <dd>
       <a href="https://ivpk.github.io/DCAT-AP-LT/en/hvd.html"><cite>Lithuanian High Value Datasets Metadata Specification</cite></a>
     </dd>
-
