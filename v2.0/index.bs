@@ -510,6 +510,7 @@ Pagrindinių modelių esybių, kurios sudaro taikymo profilio branduolį, savyb�
                 <td>Informacinės sistemos svarba pagal Valstybės informacinių išteklių valdymo įstatymo reikalavimus.</td>
                 <td>P</td>
             </tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
             <tr class="data-table__header">
                 <td>dcataplt:type</td>
                 <td>[skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)</td>
@@ -518,6 +519,7 @@ Pagrindinių modelių esybių, kurios sudaro taikymo profilio branduolį, savyb�
                 <td>Informacinės sistemos rūšis pagal Valstybės informacinių išteklių valdymo įstatymo reikalavimus.</td>
                 <td>P</td>
             </tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
             <tr class="data-table__header">
                 <td>dcataplt:ISImportanceAssessmentURL</td>
                 <td>[rdfs:Resource](http://www.w3.org/2000/01/rdf-schema#Resource)</td>
@@ -526,6 +528,7 @@ Pagrindinių modelių esybių, kurios sudaro taikymo profilio branduolį, savyb�
                 <td>URL nuoroda į informacinės sistemos svarbos vertinimo dokumentą.</td>
                 <td>P</td>
             </tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
             <tr class="data-table__header">
                 <td>dcataplt:relatesToInformationSystem</td>
                 <td>dcataplt:InformationSystem</td>
@@ -534,6 +537,7 @@ Pagrindinių modelių esybių, kurios sudaro taikymo profilio branduolį, savyb�
                 <td>Informacinės sistemos, kurios teikia duomenis šiai IS.</td>
                 <td>P</td>
             </tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
             <tr class="data-table__header">
                 <td>dcataplt:relatesToDataService</td>
                 <td>[Dataservice](http://www.w3.org/ns/dcat#DataService)</td>
