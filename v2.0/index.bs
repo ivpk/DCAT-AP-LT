@@ -487,7 +487,15 @@ Pagrindinių modelių esybių, kurios sudaro taikymo profilio branduolį, savyb�
     <dd>Programinės įrangos visuma valstybės ar savivaldybės institucijos ar įstaigos, kito viešojo administravimo subjekto, viešosios įstaigos ar valstybės valdomos įmonės veiklos procesams skaitmenizuoti, duomenims tvarkyti ir (ar) administracinėms ar viešosioms paslaugoms teikti elektroniniu būdu.</dd>
     <dt>Savybės</dt>
     <dd>
-        <table class="data">
+        <table class="data-table simple">
+
+            <style>
+                .data-table.simple {
+                border-collapse: separate;
+                border-spacing: 20px 10px;
+                }
+            </style>
+
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:12%">Intervalas</th>
@@ -552,7 +560,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
     <dd>Informacinės sistemos svarba pagal Valstybės informacinių išteklių valdymo įstatymo reikalavimus.</dd>
     <dt>Galimų svarbos lygmenų reikšmių sąrašas</dt>
     <dd>
-        <table class="data">
+        <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:10%">Reikšmė</th>
         <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -599,7 +607,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
     <dd>Informacinės sistemos tipas pagal Valstybės informacinių išteklių valdymo įstatymo reikalavimus.</dd>
     <dt>Galimų informacinių sistemų tipų reikšmių sąrašas</dt>
     <dd>
-        <table class="data">
+        <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:10%">Reikšmė</th>
         <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -640,7 +648,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
     <dd>Teisinių šaltinių Lietuvos Respublikoje tipų sąrašas.</dd>
     <dt>Galimų teisinių šaltinių tipų sąrašas</dt>
     <dd>
-        <table class="data">
+        <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:10%">Reikšmė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -750,7 +758,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
     <dt>Apibrėžimas</dt>
     <dd>Katalogas arba saugykla, kurioje saugomi aprašomi duomenų rinkiniai arba duomenų paslaugos.</dd>
     <dd>
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:15%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:30%">Aprašas</th>
@@ -768,7 +776,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
 
 ### Klasės Katalogas privalomos savybės ### {###PrivalomosKatalogasSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -828,7 +836,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
 
 ### Klasės Katalogas rekomenduojamos savybės ### {###RekomenduojamosKatalogasSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -930,7 +938,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
 
 ### Klasės Katalogas pasirenkamos savybės ### {###PasirenkamosKatalogasSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -1016,7 +1024,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
     <dt>Apibrėžimas</dt>
     <dd>Bet kuris subjektas, atliekantis veiksmus, susijusius su pagrindinėmis (angl. Core) klasėmis: Katalogas, Duomenų rinkinys, Duomenų paslauga ir Pateiktį.</dd>
     <dd>
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -1033,7 +1041,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
 
 ### Klasės Agentas privalomos savybės ### {###PrivalomosAgentasSavybes}
 
- <table class="data">
+ <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1056,7 +1064,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
 
 ### Klasės Agentas rekomenduojamos savybės ### {###RekomenduojamosAgentasSavybes}
 
- <table class="data">
+ <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1092,7 +1100,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
 
 ## Tekstinis  ## {##Tekstinis}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -1109,7 +1117,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
 
 ## Išteklius ## {##Isteklius}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:30%">Aprašas</th>
@@ -1127,7 +1135,7 @@ DCAT-AP-LT naudojami kontroliuojami žodynai, pavyzdžiui, nustatyti kontroliuoj
 
 ## Duomenų rinkinys ## {##DuomenuRinkinys}
 
-  <table class="data">
+  <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:12%">Aprašas</th>
@@ -1151,7 +1159,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
 
 ### Klasės Duomenų rinkinys privalomos savybės ### {###PrivalomosDuomenųRinkinysSavybes}
 
- <table class="data">
+ <table class="data-table simple">
     <tr class="data-table__header">
         <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
         <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1201,7 +1209,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
 
 ### Klasės Duomenų rinkinys rekomenduojamos savybės ### {###RekomenduojamosDuomenųRinkinysSavybes}
 
- <table class="data">
+ <table class="data-table simple">
     <tr class="data-table__header">
         <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
         <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1278,7 +1286,7 @@ Duomenų rinkinys išskiriamas ir formuluojamas kaip informacinės sistemos veik
 
 ### Klasės Duomenų rinkinys pasirenkamos savybės ### {###PasirenkamosDuomenųRinkinysSavybes}
 
- <table class="data">
+ <table class="data-table simple">
     <tr class="data-table__header">
         <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
         <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1641,7 +1649,7 @@ Viešieji: Viešai prieinami visiems. Naudojimo pastaba: Leidžiami apribojimai 
 
 ## Duomenų paslauga ## {##DuomenuPaslauga}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -1659,7 +1667,7 @@ Viešieji: Viešai prieinami visiems. Naudojimo pastaba: Leidžiami apribojimai 
 
 ### Klasės Duomenų paslauga privalomos savybės ### {###PrivalomosDuomenųPaslaugaSavybes}
 
- <table class="data">
+ <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1700,7 +1708,7 @@ Viešieji: Viešai prieinami visiems. Naudojimo pastaba: Leidžiami apribojimai 
 
 ### Klasės Duomenų paslauga rekomenduojamos savybės ### {###RekomenduojamosDuomenųPaslaugaSavybes}
 
- <table class="data">
+ <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1768,7 +1776,7 @@ Viešieji: Viešai prieinami visiems. Naudojimo pastaba: Leidžiami apribojimai 
 
 ### Klasės Duomenų paslauga pasirenkamos savybės ### {###PasirenkamosDuomenųPaslaugaSavybes}
 
- <table class="data">
+ <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:5%">URI</th>
@@ -1858,7 +1866,7 @@ Viešieji: Viešai prieinami visiems. Naudojimo pastaba: Leidžiami apribojimai 
 
 ## Kategorija, Teikėjo tipas, Statusas ## {##Kategorija}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:12%">Aprašas</th>
@@ -1875,7 +1883,7 @@ Viešieji: Viešai prieinami visiems. Naudojimo pastaba: Leidžiami apribojimai 
 
 ### Klasės Kategorija, Teikėjo tipas, Statusas privalomos savybės ### {###PrivalomosKategorijaSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -1900,7 +1908,7 @@ Viešieji: Viešai prieinami visiems. Naudojimo pastaba: Leidžiami apribojimai 
 
 ## Pateiktis ## {##Pateiktis}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:20%">Aprašas</th>
@@ -1921,7 +1929,7 @@ IS kontekste, šios klasės prioritetinis ir didžiausios apimties taikymas yra 
 
 ### Klasės Pateiktis privalomos savybės ### {###PrivalomosPateiktisSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -1945,7 +1953,7 @@ IS kontekste, šios klasės prioritetinis ir didžiausios apimties taikymas yra 
 
 ### Klasės Pateiktis rekomenduojamos savybės ### {###RekomenduojamosPateiktisSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -1996,7 +2004,7 @@ IS kontekste, šios klasės prioritetinis ir didžiausios apimties taikymas yra 
 
 ### Klasės Pateiktis pasirenkamos savybės ### {###PasirenkamosPateiktisSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2189,7 +2197,7 @@ ir pateikties valdymo teisės.</td>
 
 ## Licencijos dokumentas ## {##LicencijosDokumentas}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -2207,7 +2215,7 @@ ir pateikties valdymo teisės.</td>
 
 ### Klasės Licencijos Dokumentas rekomenduojamos savybės ### {###RekomenduojamosLicencijosDokumentasSavybes}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -2232,7 +2240,7 @@ ir pateikties valdymo teisės.</td>
 
 ## Kategorijų schema ## {##KategorijuSchema}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:12%">Aprašas</th>
@@ -2250,7 +2258,7 @@ ir pateikties valdymo teisės.</td>
 
 ### Klasės Kategorijų schema privalomos savybės ### {###PrivalomosKategorijųSchemaSavybes}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -2275,7 +2283,7 @@ ir pateikties valdymo teisės.</td>
 
 ## Teisinis šaltinis ## {##TeisinisSaltinis}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -2295,7 +2303,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Teisinis šaltinis privalomos savybės ### {###PrivalomosTeisinisŠaltinisSavybes}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -2319,7 +2327,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Teisinis šaltinis rekomenduojamos savybės ### {###RekomenduojamosTeisinisŠaltinisSavybes}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -2352,7 +2360,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Teisinis šaltinis pasirenkamos savybės ### {###PasirenkamosTeisinisŠaltinisSavybes}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -2386,7 +2394,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ## Taisyklė ## {##Taisykle}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -2404,7 +2412,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 <br>
       ### Klasės Taisyklė privalomos savybės ### {###PrivalomosTaisyklėSavybės}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -2446,7 +2454,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
       ### Klasės Taisyklė rekomenduojamos savybės ### {###RekomenduojamosTaisyklėSavybės}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -2480,7 +2488,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
       ### Klasės Taisyklė pasirenkamos savybės ### {###PasirenkamosTaisyklėSavybės}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -2507,7 +2515,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ## Viešoji institucija ## {##ViesojiInstitucija}
 
-          <table class="data">
+          <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -2525,7 +2533,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Viešoji Institucija privalomos savybės ### {###PrivalomosViesojiInstitucijaSavybes}
 
-         <table class="data">
+         <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2575,7 +2583,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Viešoji Institucija rekomenduojamos savybės ### {###RekomenduojamosViesojiInstitucijaSavybes}
 
- <table class="data">
+ <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2619,7 +2627,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ## Informacinės sistemos paslauga ## {##ISPaslauga}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -2637,7 +2645,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Informacinės Sistemos Paslauga privalomos savybės ### {###PrivalomosISPaslaugaSavybes}
 
- <table class="data">
+ <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2687,7 +2695,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Informacinės Sistemos Paslauga rekomenduojamos savybės ### {###RekomenduojamosISPaslaugaSavybes}
 
- <table class="data">
+ <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2774,7 +2782,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Informacinės Sistemos Paslauga pasirenkamos savybės ### {###PasirenkamosISPaslaugaSavybes}
 
- <table class="data">
+ <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2815,7 +2823,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ## Katalogo įrašas ## {##KatalogoIrasas}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -2833,7 +2841,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 <br>
 ### Klasės Katalogo įrašas privalomos savybės ### {###PrivalomosKatalogoĮrašasSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2865,7 +2873,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Katalogo įrašas rekomenduojamos savybės ### {###RekomenduojamosKatalogoĮrašasSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2908,7 +2916,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Katalogo įrašas pasirenkamos savybės ### {###PasirenkamosKatalogoĮrašasSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -2959,7 +2967,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ## Santykis ## {##Santykis}
 
-          <table class="data">
+          <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -2977,7 +2985,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Santykis privalomos savybės ### {###PrivalomosSantykisSavybes}
 
-         <table class="data">
+         <table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -3010,7 +3018,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ## Kontrolinė suma ## {##KontrolineSuma}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3029,7 +3037,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ### Klasės Kontrolinė suma privalomos savybės ### {###PrivalomosKontrolinėSumaSavybes}
 
-<table class="data">
+<table class="data-table simple">
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
                 <th class="data-table__header-title--sortable" style="width:10%">URI</th>
@@ -3061,7 +3069,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ## Dokumentas ## {##Dokumentas}
 
- <table class="data">
+ <table class="data-table simple">
             <tr>
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3080,7 +3088,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ## Dažnis ## {##Daznis}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3100,7 +3108,7 @@ Pastaba: Teisinių išteklių aprašymai ateityje numatomi būti pateikti pagal 
 
 ## Identifikatorius ## {##Identifikatorius}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3123,7 +3131,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ### Klasės Identifikatorius privalomos savybės ### {###PrivalomosIdentifikatoriusSavybes}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -3148,7 +3156,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Rūšis ## {##Rusis}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:30%">Aprašas</th>
@@ -3166,7 +3174,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Lingvistinė sistema ## {##LingvistineSistema}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:30%">Aprašas</th>
@@ -3184,7 +3192,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Vietovė ## {##Vietove}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:30%">Aprašas</th>
@@ -3200,11 +3208,9 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
         </table>
 
- <table class="data-table simple">
-
 ### Klasės Vietovė rekomenduojamos savybės ### {###RekomenduojamosVietovėSavybės}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -3238,7 +3244,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ### Klasės Vietovė pasirenkamos savybės ### {###PasirenkamosVietovėSavybės}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -3264,7 +3270,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Medijos tipas ## {##MedijosTipas}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3284,7 +3290,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Laikotarpis ## {##Laikotarpis}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3302,7 +3308,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ### Klasės Laikotarpis rekomenduojamos savybės ### {###RekomenduojamosLaikotarpisSavybes}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -3335,7 +3341,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ### Klasės Laikotarpis pasirenkamos savybės ### {###PasirenkamosLaikotarpisSavybes}
 
- <table class="data">
+ <table class="data-table simple">
 
             <tr class="data-table__header">
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybė</th>
@@ -3369,7 +3375,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Teisių deklaracija ## {##TeisiuDeklaracija}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3389,7 +3395,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Duomenų tvarkytojo deklaracija ## {##DTDeklaracija}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3408,7 +3414,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Standartas ## {##Standartas}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3427,7 +3433,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Kontaktinė informacija ## {##KontaktineInformacija}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3447,7 +3453,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Kokybės anotacija ## {##KokybesAnotacija}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3468,7 +3474,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Kokybės matavimas ## {##KokybesMatavimas}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3487,7 +3493,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Veikla ## {##Veikla}
 
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3507,13 +3513,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 ## Adresas ## {##Adresas}
 
-        <style>
-            .data {
-                border-collapse: separate;
-                border-spacing: 20px 10px;
-            }
-        </style>
- <table class="data">
+ <table class="data-table simple">
             <tr >
                 <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Klasė</th>
                 <th class="data-table__header-title--sortable" style="width:50%">Aprašas</th>
@@ -3531,7 +3531,7 @@ neprivalomas identifikatoriaus schemą valdančios agentūros identifikatorius.
 
 # Naudojami BregDCAT-AP Kontroliuojami žodynai # {#BREGZodynai}
 
-<table class="data">       
+<table class="data-table simple">       
   <tr>
      <th class="data-table__header-title--sortable data-table__header-title--sortable-active" style="width:12%">Savybės URI</th>
     <th class="data-table__header-title--sortable" style="width:50%">Nauojama klasėje / klasėse</th>
