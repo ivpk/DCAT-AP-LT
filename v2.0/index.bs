@@ -492,7 +492,7 @@ Pagrindinių modelių esybių, kurios sudaro taikymo profilio branduolį, savyb�
             <style>
                 .data-table.simple {
                 border-collapse: separate;
-                border-spacing: 20px 10px;
+                border-spacing: 20px 15px;
                 }
             </style>
 
