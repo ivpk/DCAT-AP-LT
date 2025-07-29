@@ -489,7 +489,7 @@ Pagrindinių modelių esybių, kurios sudaro taikymo profilio branduolį, savyb�
         <style>
             .data-table.simple {
                 border-collapse: separate;
-                border-spacing: 20px 0;
+                border-spacing: 20px 10px;
             }
         </style>
         <table class="data-table simple">
@@ -535,7 +535,7 @@ Pagrindinių modelių esybių, kurios sudaro taikymo profilio branduolį, savyb�
             </tr>
             <tr class="data-table__header">
                 <td>dcataplt:relatesToDataService</td>
-                <td>[Dataservice]()</td>
+                <td>[Dataservice](http://www.w3.org/ns/dcat#DataService)</td>
                 <td>0..n</td>
                 <td>Susijusi duomenų paslauga</td>
                 <td>Informacinių sistemų duomenų paslaugos, kurios teikia duomenis šiai informacinei sistemai.</td>
