@@ -40,6 +40,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai teisėtos, oficialios ir patikimos centrinės informacinės duomenų bazės, kuriose saugomi svarbiausi VII duomenys apie piliečius, įmones, transporto priemones, vairuotojo pažymėjimus, pastatus ir vietoves. Ši informacija sudaro pagrindinius duomenis (angl. Master Data) viešosioms paslaugoms teikti.<br></code>
         </td>
     </tr>
+    <tr><td></td><td></td></tr>
     <tr>
         <td>
         <code>DCAT</code>
