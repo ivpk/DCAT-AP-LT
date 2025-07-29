@@ -37,8 +37,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Bazinis registras</code>
         </td>
         <td>
-        <code>Tai teisėtos, oficialios ir patikimos centrinės informacinės duomenų bazės, kuriose saugomi svarbiausi VII duomenys apie piliečius, įmones, transporto priemones, vairuotojo pažymėjimus, pastatus ir vietoves. Ši informacija sudaro pagrindinius duomenis (angl. Master Data) viešosioms paslaugoms teikti.</code>
-        <div></div>
+        <code>Tai teisėtos, oficialios ir patikimos centrinės informacinės duomenų bazės, kuriose saugomi svarbiausi VII duomenys apie piliečius, įmones, transporto priemones, vairuotojo pažymėjimus, pastatus ir vietoves. Ši informacija sudaro pagrindinius duomenis (angl. Master Data) viešosioms paslaugoms teikti.<br></code>
         </td>
     </tr>
     <tr>
