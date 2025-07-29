@@ -40,6 +40,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai teisėtos, oficialios ir patikimos centrinės informacinės duomenų bazės, kuriose saugomi svarbiausi VII duomenys apie piliečius, įmones, transporto priemones, vairuotojo pažymėjimus, pastatus ir vietoves. Ši informacija sudaro pagrindinius duomenis (angl. Master Data) viešosioms paslaugoms teikti. </code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>DCAT</code>
@@ -48,6 +49,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai yra tarptautinis metaduomenų žodynas, skirtas apibūdinti duomenų rinkinius ir jų atsiradimo šaltinius. Jis naudojamas duomenų rinkinių katalogavimui ir paieškai, taip pat duomenų rinkinių integracijai ir dalijimuisi. Prieiga internetu: http://www.w3.org/ns/dcat#</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>DCAT-AP</code>
@@ -56,6 +58,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai metaduomenų įrašų specifikacija, skirta užtikrinti Europos duomenų portalų semantinę sąveiką. Ji pagrįsta W3C DCAT ir palaiko standartizuotus duomenų rinkinių aprašus, leidžiančius veiksmingai keistis duomenimis ir juos pakartotinai naudoti.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>DCAT-AP HVD</code>
@@ -64,6 +67,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai yra specialus DCAT-AP plėtinys, kuris skirtas išsamiau aprašyti didelės vertės duomenų rinkinių patikimumą, kokybę ir kitus vertinimo rodiklius. Šis plėtinys leidžia lengviau ir tikslingiau interpretuoti duomenų kokybės ir patikimumo informaciją, taip pat prisideda prie didelės vertės duomenų atviro naudojimo ir interaktyvumo.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Duomenys</code>
@@ -72,6 +76,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Skaitmeninės išraiškos informacija, dokumentai ir (ar) jų kopijos, įskaitant garso, vaizdo arba garso ir vaizdo įrašus, taip pat asmens duomenis, tinkami saugoti, perduoti, interpretuoti ir apdoroti informacinių technologijų priemonėmis.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Duomenų branda</code>
@@ -80,6 +85,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Duomenų brandumas yra terminas, apibūdinantis organizacijos gebėjimą sistemingai rinkti, valdyti ir naudoti duomenis. Tai rodo, kaip efektyviai organizacija naudoja savo duomenis, taip pat kaip gerai ji yra pasirengusi naujoms duomenų analizės strategijoms ir technologijoms.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Duomenų kokybė</code>
@@ -88,6 +94,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Duomenų kokybė apibūdina duomenų tikslumą, patikimumą ir nuoseklumą, taip pat duomenų nuolatinį atnaujinimą. Tai yra duomenų savybės, kurios lemia duomenų naudingumą ir patikimumą sprendimų priėmimui.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Duomenų paslauga</code>
@@ -96,6 +103,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai operacijų rinkinys, suteikiantis prieigą prie vieno ar daugiau duomenų rinkinių arba duomenų apdorojimo funkcijų.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Duomenų portalas</code>
@@ -104,6 +112,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai žiniatinklio sistema, kurioje pateikiamas duomenų katalogas su duomenų rinkinių aprašymais ir kurioje teikiamos paslaugos, leidžiančios surasti ir pakartotinai naudoti duomenų rinkinius.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Duomenų rinkinys</code>
@@ -112,6 +121,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai viename šaltinyje paskelbtų arba kuruojamų duomenų rinkinys, kurį galima gauti arba atsisiųsti vienu ar keliais formatais.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>DSA</code>
@@ -120,7 +130,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>DSA - tai duomenų struktūros aprašo specifikacija, taikoma aprašyti vieningai Lietuvoje valstybės informacinius išteklius sudarančius duomenis.</code>
         </td>
     </tr>
-
+    <tr></tr>
     <tr>
         <td>
         <code>Informacinė sistema</code>
@@ -129,6 +139,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Programinės įrangos visuma valstybės ar savivaldybės institucijos ar įstaigos, kito viešojo administravimo subjekto, viešosios įstaigos ar valstybės valdomos įmonės veiklos procesams skaitmenizuoti, duomenims tvarkyti ir (ar) administracinėms ar viešosioms paslaugoms teikti elektroniniu būdu.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Informacinės sistemos gyvavimo ciklas</code>
@@ -137,6 +148,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Informacinės sistemos būsenos pokyčių nuo jos įsteigimo iki veiklos užbaigimo visuma.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Informacinės sistemos tvarkytojas</code>
@@ -145,6 +157,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Valstybės ar savivaldybės institucija ar įstaiga, kitas viešojo administravimo subjektas, viešoji įstaiga ar valstybės valdoma įmonė, kurie informacinės sistemos valdytojo nustatyta tvarka jo vardu užtikrina informacinės sistemos veikimą.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Informacinės sistemos valdytojas</code>
@@ -153,6 +166,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Valstybės ar savivaldybės institucija ar įstaiga, kitas viešojo administravimo subjektas, viešoji įstaiga ar valstybės valdoma įmonė, kurie nustato informacinės sistemos veikimo tikslus ir priemones.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Kontroliuojamas žodynas</code>
@@ -161,6 +175,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai žodyno leidėjo valdomas ir prižiūrimas terminų ir jų apibrėžimų rinkinys, kuris padeda vienareikšmiškai sužymėti ir efektyviai pasiekti informaciją. Kontroliuojamas žodynas padeda išvengti naudojamų sinonimų, klaidingų terminų ar variacijų, kas gali sukelti keblumų, siekiant surasti tokią informaciją.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Metaduomenys</code>
@@ -169,6 +184,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Aprašomoji informacija, kuri padeda suprasti duomenų ar jų rinkinių išdėstymo struktūrą, logiką, semantiką, tarpusavio ryšius, taip pat surasti, teisingai interpretuoti ir naudoti pateikiamus duomenis ar jų rinkinius.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>ODRL</code>
@@ -177,6 +193,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Atviroji skaitmeninių teisių kalba (ODRL) yra politikos išraiškos kalba, teikianti lankstų ir sąveikų informacijos modelį, žodyną ir kodavimo mechanizmus, skirtus pareiškimams apie turinio ir paslaugų naudojimą pateikti. ODRL žodynas ir išraiška apibūdina ODRL strategijose vartojamus terminus ir kaip juos koduoti. Prieiga internetu: http://www.w3.org/ns/odrl/2/</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Ontologija</code>
@@ -185,6 +202,7 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai išsami žinių struktūra arba modelis, kurio apimtyje yra identifikuotos ir apibrėžtos sąvokos (koncepcijos) ir jų tarpusavio ryšiai tam tikroje dalykinėje ar teminėje srityje.</code>
         </td>
     </tr>
+    <tr></tr>
     <tr>
         <td>
         <code>Pagrindiniai duomenys</code>
@@ -193,7 +211,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai pagrindiniai valstybės veiklai organizuoti būtini duomenys, tokie kaip gyventojai, mokesčiai, įmonės, teritorinis suskirstymas, valstybės turtas ar teisės aktai, žinoma, neapsiribojant tik jais. Pagrindiniai duomenys dažnai yra grupuojami pagal registrus ir gali apimti susijusius etaloninius duomenis.</code>
         </td>
     </tr>
-  <tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Pagrindiniai žodynai</code>
         </td>
@@ -201,7 +220,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai supaprastinti, pakartotinai panaudojami ir plėtojami žinių apie duomenis modeliai, kurie fiksuoja esmines duomenų savybių charakteristikas tokiu būdu, kuris yra nešališkas ir neutralus sintaksės atžvilgiu.</code>
         </td>
     </tr>
-  <tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Plėtinys</code>
         </td>
@@ -209,7 +229,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Papildoma standarto specifikacija ar funkcijų elementas, kuri praplečia standarto galimybes, kad būtų galima tenkinti konkretų poreikį arba atvejį. Plėtiniai naudojami standartui pritaikyti tam tikros bendruomenės poreikiams arba spręsti aspektus, kurių pagrindinis standartas nenumato.</code>
         </td>
     </tr>
-  <tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Referenciniai duomenys</code>
         </td>
@@ -217,7 +238,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai pagrindinių duomenų dalis, kuri apima iš anksto apibrėžtas, standartizuotas duomenų reikšmes ar klasifikavimo schemas, kurias gali pakartotinai naudoti programos, sistemos, duomenų saugyklos bei ataskaitos, nukreipiant atgal į referencinius duomenis.</code>
         </td>
     </tr>
- <tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Registras</code>
         </td>
@@ -225,7 +247,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Informacinėje sistemoje tvarkomas registruojamą objektą ar objektus apibūdinantis duomenų rinkinys ar rinkiniai, kuriems nustatomos specialios registravimo sąlygos.</code>
         </td>
     </tr>
- <tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Taikymo profilis</code>
         </td>
@@ -233,7 +256,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai aukštesnio lygmens standarto (ar specifikacijos) pritaikymo konkrečiame kontekste ar dalykinėje srityje specifikacija, pateikiant, nurodant privalomus, rekomenduojamus ir neprivalomus elementus, pateikiant rekomendacijas dėl kontroliuojamų žodynų/ išgrynintų sąvokų ir terminų naudojimo. Tai padeda užtikrinti nuoseklų ir tinkamą naudojimą tam tikroje taikymo aplinkoje.</code>
         </td>
     </tr>
-<tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Taksonomija</code>
         </td>
@@ -241,7 +265,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai hierarchinė klasifikacijos sistema, kuri sugrupuoja objektus ar sąvokas pagal bendras, vienijančias savybes (angl. qualities) arba kiekybinius rodiklius į logiškai susietas kategorijas ar pogrupius pagal aiškią hierarchinę (dažnai griežtą) struktūrą.</code>
         </td>
     </tr>
-<tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Teikimas</code>
         </td>
@@ -249,7 +274,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Teikimas yra vienakryptė asociacija. Tai reiškia, kad viena klasė žino apie kitą klasę, bet nebūtinai atvirkščiai. Tai reiškia vienpusį santykį.</code>
         </td>
     </tr>
-<tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Tezauras</code>
         </td>
@@ -257,7 +283,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Tai semantinis žodynas, kuriame terminai ir sąvokos tarpusavyje siejasi patvirtintais, hierarchiniais, sinoniminiais ir/ar kitokiais ryšiais.</code>
         </td>
     </tr>
-<tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Valstybės informaciniai ištekliai (VII)</code>
         </td>
@@ -265,7 +292,8 @@ Metadata include: Editor off, This version off, Issue Tracking off, Status off, 
         <code>Duomenys, informacinės sistemos, informacinių technologijų platformos ir informacinių technologijų priemonės, naudojami valstybės reikmėms.</code>
         </td>
     </tr>
-<tr>
+    <tr></tr>
+    <tr>
         <td>
         <code>Žodynas</code>
         </td>
